@@ -97,7 +97,7 @@ Creo que un buen desarrollador no solo demuestra su experiencia mediante el cód
 
 Ademas, Estos proyectos incluye un Case Study con el análisis funcional, arquitectura, diagramas, decisiones técnicas, retos enfrentados y resultados obtenidos.
 
-📘 *Documentación completa de cada uno de los proyectos en la carpeta:* docs/.pdf
+📘 *Documentación completa de cada uno de los proyectos en la carpeta:* docs/.pdf  
 
 ⸻
 
