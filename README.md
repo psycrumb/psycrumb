@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Antonio González
+👋 ¡Hola! Soy Antonio Gonzalez
 
 Full Stack Developer | Ingeniero en Tecnologías de la Información y Comunicaciones 
 
