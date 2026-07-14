@@ -95,6 +95,10 @@ Creo que un buen desarrollador no solo demuestra su experiencia mediante el cód
 * Resultados obtenidos
 * Lecciones aprendidas
 
+Ademas, Estos proyectos incluye un Case Study con el análisis funcional, arquitectura, diagramas, decisiones técnicas, retos enfrentados y resultados obtenidos.
+
+📘 *Documentación completa de cada uno de los proyectos en la carpeta:* docs/.pdf
+
 ⸻
 
 🎯 Actualmente
