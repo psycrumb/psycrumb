@@ -11,7 +11,7 @@ Me apasiona crear aplicaciones escalables, automatizar procesos, resolver proble
 Actualmente estoy construyendo Psycrumb Technologies, mi marca profesional, donde concentro proyectos de desarrollo, automatización, arquitectura de software y documentación técnica de alto nivel.
 
 <p align="center">
-    <img src="assets/banner.png" width="100%">
+    <img src="assets/marca.png" width="100%">
 </p>
 
 ⸻
